@@ -61,4 +61,4 @@ NOTES:
 APP SCREENSHOT:
 ----------------------------------------
 We have uploaded our app screenshot for reference:
-https://github.com/user-attachments/assets/f907fd5e-e51d-4604-b64b-23c302b25438/WhatsApp%20Image%202025-04-05%20at%2022.11.56_01d5c7bf
+https://github.com/user-attachments/assets/f907fd5e-e51d-4604-b64b-23c302b25438
